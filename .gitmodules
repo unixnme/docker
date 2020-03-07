@@ -1,0 +1,3 @@
+[submodule "clion-remote"]
+	path = clion-remote
+	url = https://github.com/JetBrains/clion-remote.git
